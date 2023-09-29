@@ -4,4 +4,10 @@ background-coulor:yellow;
 h1{
   color:blue:
   margin-right:30px;
+}body {
+background-coulor:yellow;
+}
+h1{
+  color:blue:
+  margin-right:30px;
 }
